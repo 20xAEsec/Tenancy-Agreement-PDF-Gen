@@ -2,6 +2,8 @@
 
 This repository contains a Python script that generates a legally sound, professional-grade Room Rental Agreement in PDF format. The agreement is tailored to reflect landlord and tenant terms relevant to California law, including utilities, guest policy, termination, and more.
 
+The default conditions are relaxed, but you may update with your own, more protective conditions within the function.
+
 ## 📄 What It Does
 The script uses the `fpdf` Python library to:
 - Generate a full rental agreement for a private room
